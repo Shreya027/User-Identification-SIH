@@ -11,5 +11,4 @@ The web app uses a two-step verification system with phone OTP verification and 
 
 ## Screenshots
 ![Home Page](https://i.imgur.com/XBmnZa0.png)
-![Register](https://i.imgur.com/JJqcM2P.png)
 ![Sign-In](https://i.imgur.com/uiQqLub.png)
